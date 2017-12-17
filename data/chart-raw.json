@@ -1,6 +1,7 @@
 {
 	"chart": {
-		"type": "spline"
+		"type": "spline",
+		"height": 400
 	},
 	"title": {
 		"text": "{username} - {activity}"
